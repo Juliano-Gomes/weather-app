@@ -51,7 +51,7 @@ Essas APIs são utilizadas para buscar dados dinâmicos e garantir uma experiên
    ```
 3. Inicie o projeto:
    ```bash
-   npm run dev
+    npm run ui:clone-first
    ```
 
 ## 📚 Sobre o desafio
